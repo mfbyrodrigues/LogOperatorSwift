@@ -1,4 +1,4 @@
-# LogOperatorSwift 🍎
+# LogOperatorSwift 
 
 Um mini projeto em Swift que implementa um operador customizado para calcular logaritmos em qualquer base.
 
